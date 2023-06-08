@@ -2,7 +2,7 @@
 
 This repository contains the code and data for our FrontiersIn manuscript as titled above
 
-The repositary includes two .R scripts: rxCOV.R and biomarkerSelection.R. The rxCOV.R script identifies which cytokines have high signal fidelity for inclusion in further analysis. The biomarkerSelection.R takes the high fidelity cytokines and selects those ones that are best able to separate the LS patient groups being compared.
+The repositary includes two .R scripts: **rxCOV.R** and **biomarkerSelection.R**. The rxCOV.R script identifies which cytokines have high signal fidelity for inclusion in further analysis. The biomarkerSelection.R takes the high fidelity cytokines and selects those ones that are best able to separate the LS patient groups being compared.
 
 It also includes .RData files: rxCOVData.RData and patientData.RData. These data files contain the data used for the analysis and results presented in the manuscript.
 
